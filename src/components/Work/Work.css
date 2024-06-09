@@ -1,0 +1,22 @@
+/* src/components/Works/Works.css */
+.works {
+  padding: 2rem;
+}
+
+.work-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.work {
+  display: flex;
+  gap: 1rem;
+}
+
+.work img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 5px;
+}

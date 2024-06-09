@@ -1,0 +1,17 @@
+/* src/components/Header/Header.css */
+header {
+  display: flex;
+  justify-content: flex-end;
+  padding: 1rem;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: black;
+}

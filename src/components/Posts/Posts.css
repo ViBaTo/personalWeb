@@ -1,0 +1,17 @@
+/* src/components/Posts/Posts.css */
+.posts {
+  padding: 2rem;
+  background-color: #f0f0f0;
+}
+
+.post-list {
+  display: flex;
+  gap: 1rem;
+}
+
+.post {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 5px;
+  flex: 1;
+}
